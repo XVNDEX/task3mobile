@@ -1,3 +1,4 @@
+//Alikhan Kumarov
 import React from 'react'
 
 import MainStackNavigator from './src/navigation/AppNavigator'
